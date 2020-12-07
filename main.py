@@ -31,7 +31,7 @@ button.click()                                      # Clicks the element
 button = browser.find_element_by_id('run_all_cells')  # Finds element on the page
 button.click()                                        # Clicks the element
 
-sleep(20)                                             # Time for watching results
+sleep(30)                                             # Time for watching results
 
 browser.close()                                       # Closes the browser
 
