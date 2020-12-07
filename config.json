@@ -1,0 +1,8 @@
+{
+    "qa": {
+        "login": "***@epam.com",
+        "password": "***"
+    },
+    "dev": {
+    }
+}
